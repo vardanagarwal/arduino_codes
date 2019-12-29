@@ -1,4 +1,5 @@
 //HIGH MEANS 0 AND LOW MEANS 1 i.e LED LIGHTING ON LOW AND NOT ON HIGH. DON'T KNOW WHY BUT THIS IS HAPPENING.
+// correct ir sensor value taken for left and right turn.
 const int IN1 = 2;
 const int IN2 = 3;
 const int IN3 = 4;
